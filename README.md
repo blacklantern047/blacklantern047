@@ -58,12 +58,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blacklantern047&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacklantern047&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blacklantern047&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="github-metrics.svg" alt="GitHub Stats" />
 </div>
 
 ### 🧠 LeetCode Stats
