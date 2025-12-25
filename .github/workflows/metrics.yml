@@ -29,6 +29,15 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Australia/Sydney
+
+      - name: LeetCode Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: leetcode.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          user: blacklantern047
+          config_timezone: Australia/Sydney
           
           # LeetCode Plugin
           plugin_leetcode: yes

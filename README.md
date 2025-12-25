@@ -61,6 +61,12 @@
   <img src="github-metrics.svg" alt="GitHub Stats" />
 </div>
 
+### 🧠 LeetCode Stats
+
+<div align="center">
+  <img src="leetcode.svg" alt="LeetCode Stats" />
+</div>
+
 
 
 ---
