@@ -65,6 +65,8 @@
 
 <div align="center">
   <img src="leetcode.svg" alt="LeetCode Stats" />
+  <br />
+  <img src="https://leetcard.jacoblin.cool/aryan-bhardwaj-tech-enthusiast?theme=radical&font=inter&ext=activity" alt="LeetCode Heatmap" />
 </div>
 
 

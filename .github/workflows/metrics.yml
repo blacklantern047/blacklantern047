@@ -35,13 +35,15 @@ jobs:
         with:
           filename: leetcode.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+          base: header
+          plugin_header_text: LeetCode Stats
           user: blacklantern047
           config_timezone: Australia/Sydney
+          extras_css: |
+            h2 { display: none !important; }
           
           # LeetCode Plugin
           plugin_leetcode: yes
           plugin_leetcode_user: aryan-bhardwaj-tech-enthusiast
-          plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_sections: solved, skills
           plugin_leetcode_limit_skills: 10
