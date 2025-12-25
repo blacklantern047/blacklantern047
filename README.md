@@ -61,13 +61,7 @@
   <img src="github-metrics.svg" alt="GitHub Stats" />
 </div>
 
-### 🧠 LeetCode Stats
 
-<div align="center">
-  <a href="https://leetcode.com/u/aryan-bhardwaj-tech-enthusiast/">
-    <img src="https://leetcard.jacoblin.cool/aryan-bhardwaj-tech-enthusiast?theme=radical&font=inter" alt="LeetCode Stats" />
-  </a>
-</div>
 
 ---
 
